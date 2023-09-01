@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=erangavishwanath&label=Profile%20views&color=0e75b6&style=flat" alt="erangavishwanath" /> </p>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=008000&vCenter=true&width=508&height=75&lines=Hi++there%F0%9F%91%8B%2C+I'm+Eranga+Vishwanath;From+Sri+Lanka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=008000&vCenter=true&width=508&height=75&lines=Hi++there%F0%9F%91%8B%2C+I'm+Eranga+Vishwanath;From+Sri+Lanka+&#x1f1f1; &#x1f1f0;" alt="Typing SVG" />
 </div>
 <hr>
 <div align="center">
