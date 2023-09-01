@@ -1,5 +1,5 @@
 ### Hi there 👋
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true)
 <!--
 **ErangaVishwanath/ErangaVishwanath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
